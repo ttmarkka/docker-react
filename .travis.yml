@@ -7,5 +7,5 @@ before_install:
 
 language: generic
 
-- docker run -e CI=true ttmarkka/docker-react npm run test -- --coverage
 script:
+  - docker run -e CI=true ttmarkka/docker-react npm run test -- --coverage
