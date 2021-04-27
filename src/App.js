@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. Moikkamoi!!!1 Ja
-          moi viel!
+          moi viel! Feature bransh tsanshe.
         </p>
         <a
           className="App-link"
